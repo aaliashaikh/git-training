@@ -1,1 +1,5 @@
-Welcome to Git tutorial
+Welcome to Git tutorial.
+Basic git commands -
+git init
+git add
+git commit
