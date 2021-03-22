@@ -1,2 +1,3 @@
 Hello Everyone!
-This is the first lecture of Devops
+This is the first lecture of Devops.
+Welcome!
